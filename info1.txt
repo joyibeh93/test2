@@ -1,2 +1,3 @@
 name: ibeh joy
 hobby:singing
+learning: git with simplilearn 
